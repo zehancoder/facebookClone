@@ -1,0 +1,20 @@
+.hoverItem:hover{
+    box-shadow: 0 0 20px rgba(128, 128, 128, 0.315);
+}
+
+.hoverItem:hover .cross{
+    left: -3px;
+    top: -3px;
+    transition: .2s;
+    scale: 1.5;
+    background-color: white;
+    color: #606770;
+}
+
+.inputDiv{
+    box-shadow: 0 0 20px rgba(128, 128, 128, 0.315);
+}
+
+.btn:hover{
+    background-color: rgba(23, 23, 255, 0.952);
+}
